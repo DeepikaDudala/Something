@@ -1,0 +1,31 @@
+body
+{
+    background-color:#F0FFFF;
+    position: relative;
+}
+hr
+{
+    background-color:#F0FFFF ;
+    border-color: #A9A9A9;
+    border-style :  none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+            
+}
+h1
+{
+    color:  #00CED1;
+    font-size:26px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+h3
+{
+    color:  #00CED1;
+}
+li
+{
+    font-family: sans-serif;
+}
